@@ -305,19 +305,19 @@ tags
 !.vscode/extensions.json
 
 ### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
+# *.asp
+# *.cer
+# *.csr
+# *.css
+# *.htm
+# *.html
+# *.js
+# *.jsp
+# *.php
+# *.rss
+# *.wasm
+# *.wat
+# *.xhtml
 
 ### WebStorm+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -405,4 +405,3 @@ zsdoc/data
 !/tests/_output/.gitkeep
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,jetbrains+all,webstorm+all,vscode,visualstudiocode,node,react,less,sass,web,linux,zsh,git
-
